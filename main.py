@@ -29,3 +29,5 @@ if a + b > c and c + b > a and a + c >b:
         print("to jes tr")
 else:
     print("to nie jest tr")
+if a==b or b==c or a==c:
+    print("to nie jest tr rown")
